@@ -1,2 +1,2 @@
 # kyknight.github.io
-This is my personal page.
+This is my current portfolio page.
