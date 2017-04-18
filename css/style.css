@@ -8,20 +8,17 @@
 body{
 	background-color: #874C62 !important;
 	background-image: url("https://www.transparenttextures.com/patterns/dark-mosaic.png");
-
-}
-hr{
-	color: black;
-	z-index: 1.0;
+	font-family: 'Roboto Mono', monospace !important;
 }
 
 .navbar{
 	background-color: #F3D388 !important;
 }
 .navbar-brand{
+	font-size: 1.75em !important;
 	color: #A7D2CB !important;
-	font-weight: 1000px;
 	text-shadow: 2px 2px grey;
+	font-family: 'Gloria Hallelujah', cursive !important;
 }
 .nav-item{
 	color: #874C62 !important;
@@ -99,7 +96,6 @@ hr{
 }
 #contact i{
 	padding: 2%;
-
 }
 #contact a{
 	color: #C98474;
