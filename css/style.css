@@ -1,14 +1,21 @@
 /*
 #C98474 peach
-#F3D388 yellow
+#F3D388 yellow 
 #874C62  plum
-#A7D2CB	blue
+#A7D2CB	blue 
 */
 
 body{
 	background-color: #874C62 !important;
 	background-image: url("https://www.transparenttextures.com/patterns/dark-mosaic.png");
 	font-family: 'Roboto Mono', monospace !important;
+}
+
+hr {
+	margin-top: 5% !important;
+	border-top: 5px solid #F3D388 !important;
+    width: 95%;
+    border-radius: 3px;
 }
 
 .navbar{
@@ -41,7 +48,6 @@ body{
 	padding: 5%;
 	height: 100%;
 	width: 100%;
-	border-radius: 50%;
 }
 #top h1{
 	padding-top: 5%;
@@ -58,7 +64,7 @@ body{
 
 #skills img{
 	display: block;
-	margin: auto;
+	margin: 0 auto;
 	width: 30%;
 	height: 30%;
 	padding: 10px;
