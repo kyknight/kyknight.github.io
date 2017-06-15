@@ -1,0 +1,132 @@
+/*
+#C98474 peach
+#F3D388 yellow 
+#874C62  plum
+#A7D2CB	blue 
+*/
+
+body{
+	background-color: #874C62 !important;
+	background-image: url("../images/dark-mosaic.png");
+	font-family: 'Roboto Mono', monospace !important;
+}
+
+hr {
+	margin-top: 5% !important;
+	border-top: 5px solid #F3D388 !important;
+    width: 95%;
+    border-radius: 3px;
+}
+
+.navbar{
+	background-color: #F3D388 !important;
+}
+.navbar-brand{
+	font-size: 1.75em !important;
+	color: #A7D2CB !important;
+	text-shadow: 2px 2px grey;
+	font-family: 'Gloria Hallelujah', cursive !important;
+}
+.nav-item{
+	color: #874C62 !important;
+}
+.nav-item:hover{
+	color: #C98474 !important;
+}
+
+
+.container-fluid{
+	background: #A7D2CB;
+	background-image: url("../images/egg-shell.png");
+}
+.row{
+	width: 100%;
+	height: 100%;
+}
+
+#top img{
+	padding: 5%;
+	height: 100%;
+	width: 100%;
+}
+#top h1{
+	padding-top: 5%;
+}
+#top p {
+	padding-top: 10%;
+	line-height: 28px;
+}
+
+.container{
+	background-color: #C98474;
+	background-image: url("../images/black-thread-light.png");
+}
+
+#skills .row{
+	margin-left:auto !important;
+  	margin-right:auto !important;
+}
+#skills img{
+	display: block;
+	margin: 0 auto;
+	width: 20%;
+	height: 20%;
+	padding: 10px;
+}
+#skills h1{
+	text-align: center;
+	padding-top: 2%;
+	margin-bottom: 5%;
+	color: #555;
+}
+
+#portfolio{
+	padding: 3%;
+	margin: 0 auto;
+}
+#portfolio h1{
+	text-align: center;
+	margin-bottom: 5%;
+	color: #555;
+}
+#portfolio img{
+	border-radius:10px;
+	height: 100%;
+	width: 100%;
+	padding: 10px;
+	border-radius: 20px;
+}
+#portfolio p{
+	padding: 5px;
+}
+
+.port-link{
+	padding: 3%;
+	color: #874C62;
+}
+.port-link:hover{
+	color: #F3D388;
+	text-decoration: none;
+}
+
+#contact{
+	background-color: #F3D388;
+	display: block;
+	margin: auto;
+	width: 100%;
+}
+#contact i{
+	padding: 2%;
+}
+#contact a{
+	color: #C98474;
+}
+#contact a:hover{
+	color: #874C62;
+}
+
+
+
+
+
+
